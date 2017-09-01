@@ -1,2 +1,3 @@
 <?php
-echo "Hello LINE BOT";
+phpinfo();
+//echo "Hello LINE BOT";
